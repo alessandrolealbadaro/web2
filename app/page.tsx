@@ -1,7 +1,9 @@
-
-
 export default function Home() {
   return (
-    <a href="university"> </a>
+   <>
+   <h1>Página Inicial</h1> <br />
+   <a href="/university">Listar Universidades</a>
+
+   </>
   );
 }
